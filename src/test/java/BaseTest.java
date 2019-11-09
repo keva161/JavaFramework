@@ -36,7 +36,6 @@ public class BaseTest
             Logging.info("TEST FAILED: " + e.getMessage());
         }
     };
-
     // Instantiates a WebDriver object & passes it to all of the pages for the tests
     @Before
     public void CreateDriver()
@@ -47,7 +46,7 @@ public class BaseTest
 
     // Closes the browser and destroys the WebDriver object after the test
     @After
-    public void Destroy() {
-        //Pages.TearDown();
+    public void Destroy()
+    {
     }
 }

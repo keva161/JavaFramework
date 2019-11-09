@@ -1,0 +1,246 @@
+18:42:50.358 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 78.0.3904.70 (since Google Chrome 78 is installed in your machine)
+18:42:50.381 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Kev\.m2\repository\webdriver\chromedriver\win32\78.0.3904.70\chromedriver.exe
+18:42:55.931 [main] INFO  BaseTest - TEST STARTING:  TestPopUpMenu
+18:43:08.772 [main] INFO  BaseTest - TEST SUCCEEDED: TestPopUpMenu - Time taken: 19407ms
+18:43:08.785 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 78.0.3904.70 (since Google Chrome 78 is installed in your machine)
+18:43:08.792 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Kev\.m2\repository\webdriver\chromedriver\win32\78.0.3904.70\chromedriver.exe
+18:43:13.950 [main] INFO  BaseTest - TEST STARTING:  TestPopUpMenuNavigation
+18:43:30.260 [main] INFO  BaseTest - TEST FAILED: no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()='AJAX Menu']"}
+  (Session info: chrome=78.0.3904.87)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-N8LVR7ID', ip: '192.168.0.64', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 78.0.3904.87, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\Kev\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:60780}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 72c6aacb657b160040500e2dd1f794dd
+*** Element info: {Using=xpath, value=//a[text()='AJAX Menu']}
+20:09:54.447 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 78.0.3904.70 (since Google Chrome 78 is installed in your machine)
+20:09:54.469 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Kev\.m2\repository\webdriver\chromedriver\win32\78.0.3904.70\chromedriver.exe
+20:09:59.951 [main] INFO  BaseTest - TEST STARTING:  Test_All_The_Navbar_Links
+20:10:10.789 [main] INFO  BaseTest - TEST FAILED: null
+20:11:40.340 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 78.0.3904.70 (since Google Chrome 78 is installed in your machine)
+20:11:40.360 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Kev\.m2\repository\webdriver\chromedriver\win32\78.0.3904.70\chromedriver.exe
+20:11:45.820 [main] INFO  BaseTest - TEST STARTING:  Test_All_The_Navbar_Links
+20:12:01.507 [main] INFO  BaseTest - TEST FAILED: null
+20:24:28.463 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 78.0.3904.70 (since Google Chrome 78 is installed in your machine)
+20:24:28.481 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Kev\.m2\repository\webdriver\chromedriver\win32\78.0.3904.70\chromedriver.exe
+20:24:33.923 [main] INFO  BaseTest - TEST STARTING:  Test_All_The_Navbar_Links
+20:24:44.809 [main] INFO  BaseTest - TEST FAILED: null
+20:25:03.997 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 78.0.3904.70 (since Google Chrome 78 is installed in your machine)
+20:25:04.055 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Kev\.m2\repository\webdriver\chromedriver\win32\78.0.3904.70\chromedriver.exe
+20:25:31.008 [main] INFO  BaseTest - TEST STARTING:  Test_All_The_Navbar_Links
+20:25:59.512 [main] INFO  BaseTest - TEST FAILED: null
+20:28:50.795 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 78.0.3904.70 (since Google Chrome 78 is installed in your machine)
+20:28:50.853 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Kev\.m2\repository\webdriver\chromedriver\win32\78.0.3904.70\chromedriver.exe
+20:29:15.932 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 78.0.3904.70 (since Google Chrome 78 is installed in your machine)
+20:29:15.964 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Kev\.m2\repository\webdriver\chromedriver\win32\78.0.3904.70\chromedriver.exe
+20:29:34.289 [main] INFO  BaseTest - TEST STARTING:  Test_All_The_Navbar_Links
+20:30:04.641 [main] INFO  BaseTest - TEST FAILED: null
+20:31:24.360 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 78.0.3904.70 (since Google Chrome 78 is installed in your machine)
+20:31:24.381 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Kev\.m2\repository\webdriver\chromedriver\win32\78.0.3904.70\chromedriver.exe
+20:31:30.029 [main] INFO  BaseTest - TEST STARTING:  Test_All_The_Navbar_Links
+20:31:40.875 [main] INFO  BaseTest - TEST FAILED: null
+20:34:49.324 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 78.0.3904.70 (since Google Chrome 78 is installed in your machine)
+20:34:49.343 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Kev\.m2\repository\webdriver\chromedriver\win32\78.0.3904.70\chromedriver.exe
+20:34:54.853 [main] INFO  BaseTest - TEST STARTING:  Test_All_The_Navbar_Links
+20:35:05.729 [main] INFO  BaseTest - TEST FAILED: null
+20:37:31.326 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 78.0.3904.70 (since Google Chrome 78 is installed in your machine)
+20:37:31.351 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Kev\.m2\repository\webdriver\chromedriver\win32\78.0.3904.70\chromedriver.exe
+20:37:36.895 [main] INFO  BaseTest - TEST STARTING:  Test_All_The_Navbar_Links
+20:37:47.795 [main] INFO  BaseTest - TEST FAILED: null
+20:40:48.501 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 78.0.3904.70 (since Google Chrome 78 is installed in your machine)
+20:40:48.521 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Kev\.m2\repository\webdriver\chromedriver\win32\78.0.3904.70\chromedriver.exe
+20:40:54.086 [main] INFO  BaseTest - TEST STARTING:  Test_All_The_Navbar_Links
+20:41:04.955 [main] INFO  BaseTest - TEST FAILED: null
+20:42:37.673 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 78.0.3904.70 (since Google Chrome 78 is installed in your machine)
+20:42:37.691 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Kev\.m2\repository\webdriver\chromedriver\win32\78.0.3904.70\chromedriver.exe
+20:42:43.207 [main] INFO  BaseTest - TEST STARTING:  Test_All_The_Navbar_Links
+20:42:54.038 [main] INFO  BaseTest - TEST FAILED: null
+20:52:26.399 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 78.0.3904.70 (since Google Chrome 78 is installed in your machine)
+20:52:26.421 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Kev\.m2\repository\webdriver\chromedriver\win32\78.0.3904.70\chromedriver.exe
+20:52:31.991 [main] INFO  BaseTest - TEST STARTING:  Test_All_The_Navbar_Links
+20:52:43.297 [main] INFO  BaseTest - TEST FAILED: null
+21:00:51.622 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 78.0.3904.70 (since Google Chrome 78 is installed in your machine)
+21:00:51.644 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Kev\.m2\repository\webdriver\chromedriver\win32\78.0.3904.70\chromedriver.exe
+21:00:57.188 [main] INFO  BaseTest - TEST STARTING:  Test_All_The_Navbar_Links
+21:00:57.837 [main] INFO  BaseTest - TEST FAILED: null
+21:01:39.262 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 78.0.3904.70 (since Google Chrome 78 is installed in your machine)
+21:01:39.283 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Kev\.m2\repository\webdriver\chromedriver\win32\78.0.3904.70\chromedriver.exe
+21:01:44.913 [main] INFO  BaseTest - TEST STARTING:  Test_All_The_Navbar_Links
+21:03:21.833 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 78.0.3904.70 (since Google Chrome 78 is installed in your machine)
+21:03:21.854 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Kev\.m2\repository\webdriver\chromedriver\win32\78.0.3904.70\chromedriver.exe
+21:03:27.424 [main] INFO  BaseTest - TEST STARTING:  Test_All_The_Navbar_Links
+21:03:29.852 [main] INFO  BaseTest - TEST SUCCEEDED: Test_All_The_Navbar_Links - Time taken: 8984ms
+21:06:01.799 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 78.0.3904.70 (since Google Chrome 78 is installed in your machine)
+21:06:01.819 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Kev\.m2\repository\webdriver\chromedriver\win32\78.0.3904.70\chromedriver.exe
+21:06:07.446 [main] INFO  BaseTest - TEST STARTING:  Test_All_The_Navbar_Links
+21:06:08.158 [main] INFO  BaseTest - TEST FAILED: null
+21:06:30.865 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 78.0.3904.70 (since Google Chrome 78 is installed in your machine)
+21:06:30.886 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Kev\.m2\repository\webdriver\chromedriver\win32\78.0.3904.70\chromedriver.exe
+21:06:36.507 [main] INFO  BaseTest - TEST STARTING:  Test_All_The_Navbar_Links
+21:06:37.218 [main] INFO  BaseTest - TEST FAILED: null
+21:08:20.124 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 78.0.3904.70 (since Google Chrome 78 is installed in your machine)
+21:08:20.154 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Kev\.m2\repository\webdriver\chromedriver\win32\78.0.3904.70\chromedriver.exe
+21:08:45.478 [main] INFO  BaseTest - TEST STARTING:  Test_All_The_Navbar_Links
+21:09:07.424 [main] INFO  BaseTest - TEST FAILED: null
+21:26:42.858 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 78.0.3904.70 (since Google Chrome 78 is installed in your machine)
+21:26:42.878 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Kev\.m2\repository\webdriver\chromedriver\win32\78.0.3904.70\chromedriver.exe
+21:26:48.553 [main] INFO  BaseTest - TEST STARTING:  Test_All_The_Navbar_Links
+21:26:49.629 [main] INFO  BaseTest - TEST FAILED: null
+21:27:12.738 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 78.0.3904.70 (since Google Chrome 78 is installed in your machine)
+21:27:12.758 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Kev\.m2\repository\webdriver\chromedriver\win32\78.0.3904.70\chromedriver.exe
+21:27:18.498 [main] INFO  BaseTest - TEST STARTING:  Test_All_The_Navbar_Links
+21:28:26.168 [main] INFO  BaseTest - TEST FAILED: null
+21:29:01.108 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 78.0.3904.70 (since Google Chrome 78 is installed in your machine)
+21:29:01.128 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Kev\.m2\repository\webdriver\chromedriver\win32\78.0.3904.70\chromedriver.exe
+21:29:06.828 [main] INFO  BaseTest - TEST STARTING:  Test_All_The_Navbar_Links
+21:29:07.538 [main] INFO  BaseTest - TEST FAILED: null
+21:29:15.353 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 78.0.3904.70 (since Google Chrome 78 is installed in your machine)
+21:29:15.383 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Kev\.m2\repository\webdriver\chromedriver\win32\78.0.3904.70\chromedriver.exe
+21:29:21.138 [main] INFO  BaseTest - TEST STARTING:  Test_All_The_Navbar_Links
+21:39:59.757 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 78.0.3904.70 (since Google Chrome 78 is installed in your machine)
+21:39:59.787 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Kev\.m2\repository\webdriver\chromedriver\win32\78.0.3904.70\chromedriver.exe
+21:40:05.458 [main] INFO  BaseTest - TEST STARTING:  Test_All_The_Navbar_Links
+21:40:06.152 [main] INFO  BaseTest - TEST FAILED: null
+21:41:25.797 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 78.0.3904.70 (since Google Chrome 78 is installed in your machine)
+21:41:25.817 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Kev\.m2\repository\webdriver\chromedriver\win32\78.0.3904.70\chromedriver.exe
+21:41:31.507 [main] INFO  BaseTest - TEST STARTING:  Test_All_The_Navbar_Links
+21:41:32.207 [main] INFO  BaseTest - TEST FAILED: null
+22:05:55.827 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 78.0.3904.70 (since Google Chrome 78 is installed in your machine)
+22:05:55.842 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Kev\.m2\repository\webdriver\chromedriver\win32\78.0.3904.70\chromedriver.exe
+22:06:01.492 [main] INFO  BaseTest - TEST STARTING:  Test_All_The_Navbar_Links
+22:06:02.197 [main] INFO  BaseTest - TEST FAILED: null
+22:11:43.914 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 78.0.3904.70 (since Google Chrome 78 is installed in your machine)
+22:11:43.945 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Kev\.m2\repository\webdriver\chromedriver\win32\78.0.3904.70\chromedriver.exe
+22:11:49.451 [main] INFO  BaseTest - TEST STARTING:  Test_All_The_Navbar_Links
+22:11:50.104 [main] INFO  BaseTest - TEST FAILED: null
+22:12:25.878 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 78.0.3904.70 (since Google Chrome 78 is installed in your machine)
+22:12:25.894 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Kev\.m2\repository\webdriver\chromedriver\win32\78.0.3904.70\chromedriver.exe
+22:12:31.342 [main] INFO  BaseTest - TEST STARTING:  Test_All_The_Navbar_Links
+22:12:33.971 [main] INFO  BaseTest - TEST SUCCEEDED: Test_All_The_Navbar_Links - Time taken: 8910ms
+22:39:39.581 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 78.0.3904.70 (since Google Chrome 78 is installed in your machine)
+22:39:39.597 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Kev\.m2\repository\webdriver\chromedriver\win32\78.0.3904.70\chromedriver.exe
+22:39:45.109 [main] INFO  BaseTest - TEST STARTING:  Test_All_The_Navbar_Links
+22:39:47.429 [main] INFO  BaseTest - TEST SUCCEEDED: Test_All_The_Navbar_Links - Time taken: 8649ms
+22:40:14.957 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 78.0.3904.70 (since Google Chrome 78 is installed in your machine)
+22:40:14.973 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Kev\.m2\repository\webdriver\chromedriver\win32\78.0.3904.70\chromedriver.exe
+22:40:20.490 [main] INFO  BaseTest - TEST STARTING:  Test_All_The_Navbar_Links
+22:40:21.161 [main] INFO  BaseTest - TEST FAILED: null
+22:41:55.671 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 78.0.3904.70 (since Google Chrome 78 is installed in your machine)
+22:41:55.702 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Kev\.m2\repository\webdriver\chromedriver\win32\78.0.3904.70\chromedriver.exe
+22:42:01.137 [main] INFO  BaseTest - TEST STARTING:  Test_All_The_Navbar_Links
+22:42:01.793 [main] INFO  BaseTest - TEST FAILED: null
+22:43:50.547 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 78.0.3904.70 (since Google Chrome 78 is installed in your machine)
+22:43:50.563 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Kev\.m2\repository\webdriver\chromedriver\win32\78.0.3904.70\chromedriver.exe
+22:43:56.051 [main] INFO  BaseTest - TEST STARTING:  Test_All_The_Navbar_Links
+22:43:56.722 [main] INFO  BaseTest - TEST FAILED: null
+22:46:45.556 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 78.0.3904.70 (since Google Chrome 78 is installed in your machine)
+22:46:45.578 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Kev\.m2\repository\webdriver\chromedriver\win32\78.0.3904.70\chromedriver.exe
+22:46:51.079 [main] INFO  BaseTest - TEST STARTING:  Test_All_The_Navbar_Links
+22:46:51.712 [main] INFO  BaseTest - TEST FAILED: null
+22:47:56.475 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 78.0.3904.70 (since Google Chrome 78 is installed in your machine)
+22:47:56.490 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Kev\.m2\repository\webdriver\chromedriver\win32\78.0.3904.70\chromedriver.exe
+22:48:01.936 [main] INFO  BaseTest - TEST STARTING:  Test_All_The_Navbar_Links
+22:48:02.606 [main] INFO  BaseTest - TEST FAILED: null
+12:04:22.088 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 78.0.3904.70 (since Google Chrome 78 is installed in your machine)
+12:04:22.113 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Kev\.m2\repository\webdriver\chromedriver\win32\78.0.3904.70\chromedriver.exe
+12:04:27.773 [main] INFO  BaseTest - TEST STARTING:  Test_All_The_Navbar_Links
+12:04:30.510 [main] INFO  BaseTest - TEST SUCCEEDED: Test_All_The_Navbar_Links - Time taken: 9381ms
+12:17:54.711 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 78.0.3904.70 (since Google Chrome 78 is installed in your machine)
+12:17:54.742 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Kev\.m2\repository\webdriver\chromedriver\win32\78.0.3904.70\chromedriver.exe
+12:18:00.355 [main] INFO  BaseTest - TEST STARTING:  Test_All_The_Navbar_Links
+12:18:03.024 [main] INFO  BaseTest - TEST SUCCEEDED: Test_All_The_Navbar_Links - Time taken: 9515ms
+12:19:05.614 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 78.0.3904.70 (since Google Chrome 78 is installed in your machine)
+12:19:05.636 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Kev\.m2\repository\webdriver\chromedriver\win32\78.0.3904.70\chromedriver.exe
+12:19:11.202 [main] INFO  BaseTest - TEST STARTING:  Test_All_The_Navbar_Links
+12:19:13.566 [main] INFO  BaseTest - TEST SUCCEEDED: Test_All_The_Navbar_Links - Time taken: 9054ms
+12:23:11.800 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 78.0.3904.70 (since Google Chrome 78 is installed in your machine)
+12:23:11.819 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Kev\.m2\repository\webdriver\chromedriver\win32\78.0.3904.70\chromedriver.exe
+12:23:17.328 [main] INFO  BaseTest - TEST STARTING:  Test_All_The_Navbar_Links
+12:23:19.858 [main] INFO  BaseTest - TEST SUCCEEDED: Test_All_The_Navbar_Links - Time taken: 8956ms
+12:26:57.646 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 78.0.3904.70 (since Google Chrome 78 is installed in your machine)
+12:26:57.662 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Kev\.m2\repository\webdriver\chromedriver\win32\78.0.3904.70\chromedriver.exe
+12:27:03.769 [main] INFO  BaseTest - TEST FAILED: java.lang.InstantiationException: PageObjects.Homepage
+12:28:09.103 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 78.0.3904.70 (since Google Chrome 78 is installed in your machine)
+12:28:09.119 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Kev\.m2\repository\webdriver\chromedriver\win32\78.0.3904.70\chromedriver.exe
+12:28:14.588 [main] INFO  BaseTest - TEST STARTING:  Test_All_The_Navbar_Links
+12:28:16.905 [main] INFO  BaseTest - TEST SUCCEEDED: Test_All_The_Navbar_Links - Time taken: 8586ms
+12:33:06.689 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 78.0.3904.70 (since Google Chrome 78 is installed in your machine)
+12:33:06.705 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Kev\.m2\repository\webdriver\chromedriver\win32\78.0.3904.70\chromedriver.exe
+12:33:12.183 [main] INFO  BaseTest - TEST STARTING:  Test_All_The_Navbar_Links
+12:33:14.446 [main] INFO  BaseTest - TEST SUCCEEDED: Test_All_The_Navbar_Links - Time taken: 8612ms
+12:41:54.377 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 78.0.3904.70 (since Google Chrome 78 is installed in your machine)
+12:41:54.392 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Kev\.m2\repository\webdriver\chromedriver\win32\78.0.3904.70\chromedriver.exe
+12:41:59.890 [main] INFO  BaseTest - TEST STARTING:  Test_All_The_Navbar_Links
+12:42:02.419 [main] INFO  BaseTest - TEST SUCCEEDED: Test_All_The_Navbar_Links - Time taken: 8912ms
+13:01:58.094 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 78.0.3904.70 (since Google Chrome 78 is installed in your machine)
+13:01:58.139 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Kev\.m2\repository\webdriver\chromedriver\win32\78.0.3904.70\chromedriver.exe
+13:02:04.459 [main] INFO  BaseTest - TEST STARTING:  Test_All_The_Navbar_Links
+13:02:08.673 [main] INFO  BaseTest - TEST SUCCEEDED: Test_All_The_Navbar_Links - Time taken: 12606ms
+13:20:46.773 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 78.0.3904.70 (since Google Chrome 78 is installed in your machine)
+13:20:46.789 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Kev\.m2\repository\webdriver\chromedriver\win32\78.0.3904.70\chromedriver.exe
+13:20:52.439 [main] INFO  BaseTest - TEST STARTING:  Test_All_The_Navbar_Links
+13:20:56.941 [main] INFO  BaseTest - TEST SUCCEEDED: Test_All_The_Navbar_Links - Time taken: 11180ms
+17:38:57.693 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 78.0.3904.70 (since Google Chrome 78 is installed in your machine)
+17:38:57.713 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Kev\.m2\repository\webdriver\chromedriver\win32\78.0.3904.70\chromedriver.exe
+17:39:03.306 [main] INFO  BaseTest - TEST STARTING:  Test_All_The_Navbar_Links
+17:39:06.229 [main] INFO  BaseTest - TEST SUCCEEDED: Test_All_The_Navbar_Links - Time taken: 9674ms
+17:40:55.054 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 78.0.3904.70 (since Google Chrome 78 is installed in your machine)
+17:40:55.078 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Kev\.m2\repository\webdriver\chromedriver\win32\78.0.3904.70\chromedriver.exe
+17:41:00.650 [main] INFO  BaseTest - TEST STARTING:  Test_All_The_Navbar_Links
+17:41:02.442 [main] INFO  BaseTest - TEST SUCCEEDED: Test_All_The_Navbar_Links - Time taken: 8481ms
+17:59:49.772 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 78.0.3904.70 (since Google Chrome 78 is installed in your machine)
+17:59:49.795 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Kev\.m2\repository\webdriver\chromedriver\win32\78.0.3904.70\chromedriver.exe
+17:59:55.374 [main] INFO  BaseTest - TEST STARTING:  Test_All_The_Navbar_Links
+17:59:56.999 [main] INFO  BaseTest - TEST SUCCEEDED: Test_All_The_Navbar_Links - Time taken: 8262ms
+18:14:05.813 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 78.0.3904.70 (since Google Chrome 78 is installed in your machine)
+18:14:05.828 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Kev\.m2\repository\webdriver\chromedriver\win32\78.0.3904.70\chromedriver.exe
+18:14:11.390 [main] INFO  BaseTest - TEST STARTING:  Test_All_The_Navbar_Links
+18:14:13.135 [main] INFO  BaseTest - TEST SUCCEEDED: Test_All_The_Navbar_Links - Time taken: 8380ms
+19:27:14.090 [main] INFO  BaseTest - TEST STARTING:  Test_All_The_Navbar_Links
+19:27:14.094 [main] INFO  BaseTest - TEST FAILED: null
+19:28:12.561 [main] INFO  BaseTest - TEST STARTING:  Test_All_The_Navbar_Links
+19:28:12.565 [main] INFO  BaseTest - TEST FAILED: null
+19:28:51.760 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 78.0.3904.70 (since Google Chrome 78 is installed in your machine)
+19:28:51.779 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Kev\.m2\repository\webdriver\chromedriver\win32\78.0.3904.70\chromedriver.exe
+19:28:57.232 [main] INFO  BaseTest - TEST STARTING:  Test_All_The_Navbar_Links
+19:28:59.009 [main] INFO  BaseTest - TEST SUCCEEDED: Test_All_The_Navbar_Links - Time taken: 8099ms
+20:15:33.902 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 78.0.3904.70 (since Google Chrome 78 is installed in your machine)
+20:15:33.937 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Kev\.m2\repository\webdriver\chromedriver\win32\78.0.3904.70\chromedriver.exe
+20:15:39.892 [main] INFO  BaseTest - TEST STARTING:  Test_All_The_Navbar_Links
+20:15:42.414 [main] INFO  BaseTest - TEST SUCCEEDED: Test_All_The_Navbar_Links - Time taken: 10037ms
+20:50:26.018 [main] INFO  BaseTest - TEST FAILED: There were 2 errors:
+  java.lang.NullPointerException(null)
+  java.lang.NullPointerException(null)
+20:54:52.472 [main] INFO  BaseTest - TEST FAILED: There were 2 errors:
+  java.lang.NullPointerException(null)
+  java.lang.NullPointerException(null)
+20:55:10.048 [main] INFO  BaseTest - TEST FAILED: There were 2 errors:
+  java.lang.NullPointerException(null)
+  java.lang.NullPointerException(null)
+20:55:14.486 [main] INFO  BaseTest - TEST FAILED: There were 2 errors:
+  java.lang.NullPointerException(null)
+  java.lang.NullPointerException(null)
+21:06:53.429 [main] INFO  BaseTest - TEST FAILED: There were 2 errors:
+  java.lang.NullPointerException(null)
+  java.lang.NullPointerException(null)
+21:11:57.066 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 78.0.3904.70 (since Google Chrome 78 is installed in your machine)
+21:11:57.084 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Kev\.m2\repository\webdriver\chromedriver\win32\78.0.3904.70\chromedriver.exe
+21:12:02.501 [main] INFO  BaseTest - TEST STARTING:  Test_All_The_Navbar_Links
+21:12:04.267 [main] INFO  BaseTest - TEST SUCCEEDED: Test_All_The_Navbar_Links - Time taken: 8049ms
+21:39:37.229 [main] INFO  BaseTest - TEST FAILED: null
+21:43:00.828 [main] INFO  BaseTest - TEST FAILED: null
+21:49:12.082 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 78.0.3904.70 (since Google Chrome 78 is installed in your machine)
+21:49:12.103 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Kev\.m2\repository\webdriver\chromedriver\win32\78.0.3904.70\chromedriver.exe
+21:49:17.666 [main] INFO  BaseTest - TEST STARTING:  Test_All_The_Navbar_Links
+21:49:20.098 [main] INFO  BaseTest - TEST SUCCEEDED: Test_All_The_Navbar_Links - Time taken: 9052ms
+22:13:57.822 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 78.0.3904.70 (since Google Chrome 78 is installed in your machine)
+22:13:57.848 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Kev\.m2\repository\webdriver\chromedriver\win32\78.0.3904.70\chromedriver.exe
+22:14:03.503 [main] INFO  BaseTest - TEST STARTING:  Test_All_The_Navbar_Links
+22:14:05.664 [main] INFO  BaseTest - TEST SUCCEEDED: Test_All_The_Navbar_Links - Time taken: 8881ms
+22:14:39.398 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+22:14:40.032 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Latest version of geckodriver is 0.26.0
+22:14:40.066 [main] INFO  io.github.bonigarcia.wdm.Downloader - Using binary driver previously downloaded
+22:14:40.067 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\Kev\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+22:14:43.665 [main] INFO  BaseTest - TEST STARTING:  Test_All_The_Navbar_Links
+22:14:45.120 [main] INFO  BaseTest - TEST SUCCEEDED: Test_All_The_Navbar_Links - Time taken: 6953ms

@@ -7,5 +7,6 @@ public class FirstTestCase extends BaseTest {
     public void Test_All_The_Navbar_Links()
     {
         Pages.homepage.Goto();
+        Pages.homepage.TypeInQuery("Testing");
     }
 }
