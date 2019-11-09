@@ -1,0 +1,17 @@
+<configuration>
+  <appender name="FILE" class="ch.qos.logback.core.FileAppender">
+    <!-- "application-name" is a variable -->
+    <File>./logs/out.log</File>
+    <layout class="ch.qos.logback.classic.PatternLayout">
+      <Pattern>%d{HH:mm:ss.SSS} [%thread] %-5level %logger{36} - %msg%n</Pattern>
+    </layout>
+  </appender>
+
+  <logger name="BrowserDemo" level="info" additivity="false">
+    <appender-ref ref="FILE"/>
+  </logger>
+
+  <root level="INFO">
+    <appender-ref ref="FILE"/>
+  </root>
+</configuration>
