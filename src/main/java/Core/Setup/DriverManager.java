@@ -14,6 +14,10 @@ public class DriverManager {
     public WebDriver getDriver() {
         return driver;
     }
+
+    public void close() {
+        driver.quit();
+    }
 }
 
 

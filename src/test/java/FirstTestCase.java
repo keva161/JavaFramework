@@ -1,12 +1,19 @@
 import PageObjects.Pages;
+import org.junit.Assert;
 import org.junit.Test;
 
 public class FirstTestCase extends BaseTest {
 
     @Test
-    public void Test_All_The_Navbar_Links()
+    public void GoogleResults()
     {
-        Pages.homepage.Goto();
-        Pages.homepage.TypeInQuery("Testing");
+        Pages.google.Goto();
+        Pages.google.TypeInQuery("Testing");
+        Pages.google.WaitForSearchResults();
+
+        Assert.assertTrue("Title contains the string testing", Pages.google.GetTitle().contains("Testing"));
+
+
+
     }
 }

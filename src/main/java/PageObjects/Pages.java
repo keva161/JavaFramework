@@ -5,12 +5,11 @@ import org.openqa.selenium.support.PageFactory;
 
 public class Pages {
 
-    public static Homepage homepage;
+    public static Google google;
 
     public static void init(WebDriver driver)
     {
-        System.out.println(driver);
-        homepage = PageFactory.initElements(driver, Homepage.class);
+        google = PageFactory.initElements(driver, Google.class);
     }
 
 }

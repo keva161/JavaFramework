@@ -1,3 +1,4 @@
+import Core.Helpers.Utilities;
 import Core.Setup.DriverManager;
 import PageObjects.Pages;
 import org.junit.After;
@@ -15,7 +16,6 @@ import static Core.Config.Settings.CHOSEN_BROWSER;
 
 public class BaseTest
 {
-
     public DriverManager driverManager = new DriverManager();
     private static final long startTime = System.currentTimeMillis();
     private static final Logger Logging = LoggerFactory.getLogger(BaseTest.class);
@@ -38,6 +38,7 @@ public class BaseTest
 
         @Override
         protected void failed(Throwable e, Description description) {
+            Utilities.TakeScreenShot(driverManager.getDriver());
             Logging.info("TEST FAILED: " + e.getMessage());
         }
     };
@@ -54,5 +55,6 @@ public class BaseTest
     @After
     public void Destroy()
     {
+        driverManager.close();
     }
 }
