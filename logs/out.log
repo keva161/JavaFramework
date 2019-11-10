@@ -244,3 +244,78 @@ Session ID: 72c6aacb657b160040500e2dd1f794dd
 22:14:40.067 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\Kev\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
 22:14:43.665 [main] INFO  BaseTest - TEST STARTING:  Test_All_The_Navbar_Links
 22:14:45.120 [main] INFO  BaseTest - TEST SUCCEEDED: Test_All_The_Navbar_Links - Time taken: 6953ms
+22:35:29.971 [main] INFO  BaseTest - TEST FAILED: null
+22:36:07.532 [main] INFO  BaseTest - TEST FAILED: null
+22:37:53.568 [main] INFO  BaseTest - TEST FAILED: null
+22:41:38.132 [main] INFO  BaseTest - TEST FAILED: null
+22:42:09.240 [main] INFO  BaseTest - TEST FAILED: null
+22:42:44.511 [main] INFO  BaseTest - TEST FAILED: null
+22:43:40.891 [main] INFO  BaseTest - TEST FAILED: null
+22:52:52.203 [main] INFO  BaseTest - TEST FAILED: null
+22:54:24.068 [main] INFO  BaseTest - TEST FAILED: null
+22:56:27.201 [main] INFO  BaseTest - TEST FAILED: null
+22:56:54.419 [main] INFO  BaseTest - TEST FAILED: null
+22:57:42.576 [main] INFO  BaseTest - TEST FAILED: null
+22:57:48.066 [main] INFO  BaseTest - TEST FAILED: null
+22:58:09.181 [main] INFO  BaseTest - TEST FAILED: null
+22:58:13.336 [main] INFO  BaseTest - TEST FAILED: null
+22:59:53.135 [main] INFO  BaseTest - TEST FAILED: null
+23:02:40.537 [main] INFO  BaseTest - TEST FAILED: null
+23:03:12.134 [main] INFO  BaseTest - TEST FAILED: null
+23:04:11.692 [main] INFO  BaseTest - TEST FAILED: null
+23:04:34.379 [main] INFO  BaseTest - TEST FAILED: null
+23:04:57.354 [main] INFO  BaseTest - TEST FAILED: null
+23:05:47.543 [main] INFO  BaseTest - TEST FAILED: null
+23:08:52.306 [main] INFO  BaseTest - TEST FAILED: null
+23:09:41.697 [main] INFO  BaseTest - TEST FAILED: null
+23:10:27.738 [main] INFO  BaseTest - TEST FAILED: null
+23:19:46.912 [main] INFO  BaseTest - TEST STARTING:  Test_All_The_Navbar_Links
+23:19:46.916 [main] INFO  BaseTest - TEST FAILED: null
+09:19:29.411 [main] INFO  BaseTest - TEST FAILED: null
+09:23:27.759 [main] INFO  BaseTest - TEST FAILED: null
+09:24:49.461 [main] INFO  BaseTest - TEST FAILED: null
+09:25:49.927 [main] INFO  BaseTest - TEST FAILED: null
+09:27:14.066 [main] INFO  BaseTest - TEST FAILED: null
+09:27:38.238 [main] INFO  BaseTest - TEST FAILED: null
+09:30:10.752 [main] INFO  BaseTest - TEST FAILED: null
+09:32:16.934 [main] INFO  BaseTest - TEST FAILED: null
+09:32:47.440 [main] INFO  BaseTest - TEST FAILED: null
+09:32:52.437 [main] INFO  BaseTest - TEST FAILED: null
+09:34:08.027 [main] INFO  BaseTest - TEST FAILED: null
+09:36:02.125 [main] INFO  BaseTest - TEST FAILED: null
+09:36:10.862 [main] INFO  BaseTest - TEST FAILED: null
+09:38:31.482 [main] INFO  BaseTest - TEST FAILED: null
+09:40:46.616 [main] INFO  BaseTest - TEST FAILED: null
+09:41:06.114 [main] INFO  BaseTest - TEST FAILED: null
+09:52:15.235 [main] INFO  BaseTest - TEST FAILED: null
+09:54:47.034 [main] INFO  BaseTest - TEST FAILED: null
+09:56:52.671 [main] INFO  BaseTest - TEST FAILED: null
+10:00:35.614 [main] INFO  BaseTest - TEST FAILED: null
+10:03:22.041 [main] INFO  BaseTest - TEST FAILED: null
+10:03:45.729 [main] INFO  BaseTest - TEST FAILED: null
+10:19:21.746 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+10:19:22.552 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Latest version of geckodriver is 0.26.0
+10:19:22.626 [main] INFO  io.github.bonigarcia.wdm.Downloader - Using binary driver previously downloaded
+10:19:22.628 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\Kev\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+10:19:26.280 [main] INFO  BaseTest - TEST STARTING:  Test_All_The_Navbar_Links
+10:19:27.761 [main] INFO  BaseTest - TEST SUCCEEDED: Test_All_The_Navbar_Links - Time taken: 7451ms
+10:26:14.632 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+10:26:16.647 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Latest version of geckodriver is 0.26.0
+10:26:16.726 [main] INFO  io.github.bonigarcia.wdm.Downloader - Using binary driver previously downloaded
+10:26:16.732 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\Kev\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+10:27:13.948 [main] INFO  BaseTest - TEST STARTING:  Test_All_The_Navbar_Links
+10:27:16.308 [main] INFO  BaseTest - TEST SUCCEEDED: Test_All_The_Navbar_Links - Time taken: 122536ms
+10:36:21.553 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+10:36:23.586 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Latest version of geckodriver is 0.26.0
+10:36:23.659 [main] INFO  io.github.bonigarcia.wdm.Downloader - Using binary driver previously downloaded
+10:36:23.667 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\Kev\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+10:37:10.312 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+10:37:11.006 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Latest version of geckodriver is 0.26.0
+10:37:11.040 [main] INFO  io.github.bonigarcia.wdm.Downloader - Using binary driver previously downloaded
+10:37:11.040 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\Kev\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+10:37:14.618 [main] INFO  BaseTest - TEST STARTING:  Test_All_The_Navbar_Links
+10:37:16.182 [main] INFO  BaseTest - TEST SUCCEEDED: Test_All_The_Navbar_Links - Time taken: 7137ms
+10:39:18.799 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 78.0.3904.70 (since Google Chrome 78 is installed in your machine)
+10:39:18.825 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Kev\.m2\repository\webdriver\chromedriver\win32\78.0.3904.70\chromedriver.exe
+10:39:24.430 [main] INFO  BaseTest - TEST STARTING:  Test_All_The_Navbar_Links
+10:39:27.010 [main] INFO  BaseTest - TEST SUCCEEDED: Test_All_The_Navbar_Links - Time taken: 9743ms

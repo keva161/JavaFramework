@@ -1,18 +1,16 @@
 package PageObjects;
 
-import Core.Setup.DriverManager;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.PageFactory;
 
-public class Pages extends DriverManager{
+public class Pages {
 
     public static Homepage homepage;
 
-    public WebDriver driver = getDriver();
-
-    public static void init()
+    public static void init(WebDriver driver)
     {
-        homepage = PageFactory.initElements(getDriver(), Homepage.class);
+        System.out.println(driver);
+        homepage = PageFactory.initElements(driver, Homepage.class);
     }
 
 }

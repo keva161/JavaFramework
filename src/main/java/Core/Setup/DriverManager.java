@@ -1,26 +1,19 @@
 package Core.Setup;
-
+import Core.Factories.BrowserType;
 import Core.Factories.WebDriverFactory;
 import org.openqa.selenium.WebDriver;
 
-import static Core.Config.Settings.CHOSEN_BROWSER;
-
-public class DriverManager
-{
+public class DriverManager {
     private WebDriver driver;
 
-    public static WebDriver getDriver()
-    {
-        return new WebDriverFactory().CreateBrowser(CHOSEN_BROWSER);
+    public void setDriver(BrowserType browser) {
+        WebDriverFactory factory = new WebDriverFactory();
+        driver = factory.CreateBrowser(browser);
     }
 
-    public void close()
-    {
-        driver.close();
-    }
-
-    public void get(String url)
-    {
-        driver.get(url);
+    public WebDriver getDriver() {
+        return driver;
     }
 }
+
+

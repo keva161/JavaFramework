@@ -4,5 +4,5 @@ import Core.Factories.BrowserType;
 
 public class Settings {
 
-    public static final BrowserType CHOSEN_BROWSER = BrowserType.Firefox;
+    public static final BrowserType CHOSEN_BROWSER = BrowserType.Chrome;
 }

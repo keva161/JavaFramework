@@ -1,3 +1,4 @@
+import Core.Setup.DriverManager;
 import PageObjects.Pages;
 import org.junit.After;
 import org.junit.Before;
@@ -10,8 +11,12 @@ import org.junit.runners.model.Statement;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+import static Core.Config.Settings.CHOSEN_BROWSER;
+
 public class BaseTest
 {
+
+    public DriverManager driverManager = new DriverManager();
     private static final long startTime = System.currentTimeMillis();
     private static final Logger Logging = LoggerFactory.getLogger(BaseTest.class);
 
@@ -40,7 +45,8 @@ public class BaseTest
     @Before
     public void CreateDriver()
     {
-        Pages.init();
+        driverManager.setDriver(CHOSEN_BROWSER);
+        Pages.init(driverManager.getDriver());
         Logging.info("TEST STARTING:  " + name.getMethodName());
     }
 
